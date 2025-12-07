@@ -1,5 +1,7 @@
-sudo apt-get install build-essential libtool autotools-dev autoconf libssl-dev libboost-all-dev software-properties-common nano git
+sudo apt-get install build-essential libtool autotools-dev autoconf libssl-dev libboost-all-dev software-properties-common git 
 sudo sudo apt-get install libevent-dev
+sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libqrencode-dev build-essential libtool autotools-dev automake pkg-config bsdmainutils python3 libssl-dev libevent-dev libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev libdb5.3++-dev 
+sudo apt-get install make automake cmake curl g++-multilib libtool binutils-gold bsdmainutils pkg-config python3
 
 
 wget http://download.oracle.com/berkeley-db/db-4.8.30.zip
